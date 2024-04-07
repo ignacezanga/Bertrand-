@@ -1,0 +1,28 @@
+Deleting a repository
+You can delete any repository or fork if you're either an organization owner or have admin permissions for the repository or fork. Deleting a forked repository does not delete the upstream repository.
+
+Only members with owner privileges for an organization or admin privileges for a repository can delete an organization repository. If Allow members to delete or transfer repositories for this organization has been disabled, only organization owners can delete organization repositories. For more information, see "Repository roles for an organization."
+
+Deleting a public repository will not delete any forks of the repository.
+
+Warnings:
+
+Deleting a repository will permanently delete release attachments and team permissions. This action cannot be undone.
+Deleting a private repository will delete all forks of the repository.
+Some deleted repositories can be restored within 90 days of deletion. For more information, see "Restoring a deleted repository."
+
+On GitHub.com, navigate to the main page of the repository.
+
+Under your repository name, click  Settings. If you cannot see the "Settings" tab, select the  dropdown menu, then click Settings.
+
+Screenshot of a repository header showing the tabs. The "Settings" tab is highlighted by a dark orange outline.
+
+On the "General" settings page (which is selected by default), scroll down to the "Danger Zone" section and click Delete this repository.
+
+Click I want to delete this repository.
+
+Read the warnings and click I have read and understand these effects.
+
+To verify that you're deleting the correct repository, in the text box, type the name of the repository you want to delete.
+
+Click Delete this repository.
